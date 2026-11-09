@@ -1,6 +1,6 @@
 cask "moonframe-sessions" do
-  version "0.3.0"
-  sha256 "518e81893313a616d149a8266f9732d1b82865fe1b3bf6238b25b17316c2aa20"
+  version "0.3.1"
+  sha256 "2abe6de08d08f28912f0e80b5bec4530da5782803e9253a89432c1bc2adcf038"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Sessions-#{version}-universal-apple-darwin.zip"
   name "Sessions"
