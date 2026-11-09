@@ -1,6 +1,6 @@
 cask "moonframe" do
-  version "0.3.0"
-  sha256 "d3245566ee4e35b987db27356c4d1cfc370357aab8bee35f97a06137f40bd750"
+  version "0.3.1"
+  sha256 "ea15e81fbfbeaf7dc79dd94bc96bef2d372a368650da22f72f0f2b98a2e07fac"
 
   url "https://github.com/moonframehq/moonframe/releases/download/v#{version}/Moonframe-#{version}-universal-apple-darwin.dmg"
   name "Moonframe"
