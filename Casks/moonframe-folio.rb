@@ -1,6 +1,6 @@
 cask "moonframe-folio" do
-  version "0.2.3"
-  sha256 "eb61eba5b28432a735a2028716967fe1aec1301857f405d99c54b06df418f967"
+  version "0.3.0"
+  sha256 "57d5fe788f6232b3a90832cf69f6f3c1e1708edb9fc7d73820d6d334e7c0b99e"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Folio-#{version}-universal-apple-darwin.zip"
   name "Folio"
