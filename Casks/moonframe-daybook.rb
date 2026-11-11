@@ -1,6 +1,6 @@
 cask "moonframe-daybook" do
-  version "1.0.0"
-  sha256 "40937b066fb6d71df255a89d24bd21ba26685057a023d7ddbf2b65c6d8a54e02"
+  version "1.0.1"
+  sha256 "733776f98b026725dd4e540326d362cd3d2f5605ee7193586af1f4971831ae37"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Daybook-#{version}-universal-apple-darwin.zip"
   name "Daybook"

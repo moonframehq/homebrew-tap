@@ -1,6 +1,6 @@
 cask "moonframe-switchyard" do
-  version "1.0.0"
-  sha256 "68af9bb179fe38d5f1c3919c14408fc11c4914663697e99cc2ab4e40730dfb18"
+  version "1.0.1"
+  sha256 "6c7ac4ab7ab2b5eb1d3d2adcd7d735eaae9347f047ec9eb81cba57c03b261a45"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Switchyard-#{version}-universal-apple-darwin.zip"
   name "Switchyard"

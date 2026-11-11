@@ -1,6 +1,6 @@
 cask "moonframe-pilot" do
-  version "1.0.0"
-  sha256 "45c513fc3fd9843fce768698dbc706e8286c4cb23f6b22c8ddbc34e63c4db673"
+  version "1.0.1"
+  sha256 "25a2970a44e4d994c26c281eae819209d7a614459f3ac698dc2805836a7d1e0e"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Pilot-#{version}-universal-apple-darwin.zip"
   name "Pilot"

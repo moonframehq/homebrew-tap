@@ -1,6 +1,6 @@
 cask "moonframe-cairn" do
-  version "1.0.0"
-  sha256 "89f8e56623db0dc2a1fc7ae9e36d1fcb3719b2923464e13d5bac139746ea592c"
+  version "1.0.1"
+  sha256 "0b43d053a85f892d1a05e4ffa1a1401a1b26c13be03973f974c94270df27e184"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Cairn-#{version}-universal-apple-darwin.zip"
   name "Cairn"
