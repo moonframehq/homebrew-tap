@@ -1,6 +1,6 @@
 cask "moonframe-lantern" do
-  version "0.3.1"
-  sha256 "534ade062805928f4f33117d384cfbabfd7f1ccc51d3c54a9c5c7326b97321a9"
+  version "1.0.0"
+  sha256 "3e199bd61c56270f36237d344f30f7e226f975e0aa2f00f32451866477a6031c"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Lantern-#{version}-universal-apple-darwin.zip"
   name "Lantern"
