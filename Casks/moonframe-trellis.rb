@@ -1,6 +1,6 @@
 cask "moonframe-trellis" do
-  version "1.2.0"
-  sha256 "b3803cd4aac9b78f9967446dc5014cb0b0251eeb19f14ec6c0c2adfc0549fd85"
+  version "1.3.0"
+  sha256 "1bf42a1c32c40965e2228d23a213cd4000552e563b348f4563110f54c074c805"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Trellis-#{version}-universal-apple-darwin.zip"
   name "Trellis"
