@@ -1,6 +1,6 @@
 cask "moonframe-hangar" do
-  version "1.3.0"
-  sha256 "6545ce0a29871672f0fe3e538200cdbc92c7a815ad67fae8467fe03a5ea214c8"
+  version "1.4.0"
+  sha256 "07184245432e3c351f203709e448a197c149a1230dd185cfbe9ecce3422eab45"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Hangar-#{version}-universal-apple-darwin.zip"
   name "Hangar"

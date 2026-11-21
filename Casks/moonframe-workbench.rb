@@ -1,6 +1,6 @@
 cask "moonframe-workbench" do
-  version "1.3.0"
-  sha256 "a1fa90bda9a60296d288895b8061b906431974f64817151a3ffc4e6b0d38fbc2"
+  version "1.4.0"
+  sha256 "5cebf5e489c923570b0fa39b81816d4c1f0eac76e5a0bbf0d0545c91104fd76e"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Workbench-#{version}-universal-apple-darwin.zip"
   name "Workbench"
