@@ -1,6 +1,6 @@
 cask "moonframe-cinder" do
-  version "1.5.0"
-  sha256 "16ff7832af3eb529e392be97ff1b54ef59397deaed26fc7a92ccd9c84ec8fda4"
+  version "1.5.1"
+  sha256 "ee1c05241b41b2b06dd40dac85db1b30001c1c2219a57b9a1dd8c26e7082129d"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/Cinder-#{version}-universal-apple-darwin.zip"
   name "Cinder"
