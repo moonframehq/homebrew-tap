@@ -1,6 +1,6 @@
 cask "moonframe-t3-overview" do
-  version "1.7.0"
-  sha256 "33441986cd192eb28d42ba15717c248dc5f89796eb1a75ad201f199e61c9e4e4"
+  version "1.8.0"
+  sha256 "42764f24cf0b7c0a6ae7c0a7cb31e8bc259ace48505928e541ae025cf3035528"
 
   url "https://github.com/moonframehq/moonframe/releases/download/apps-v#{version}/T3-Overview-#{version}-universal-apple-darwin.zip"
   name "T3 Overview"
